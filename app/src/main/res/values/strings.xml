@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaDeEnemigos</string>
+    <string-array name="screens">
+        <item>Top 5</item>
+        <item>Añadir Enemigos</item>
+        <item>Galería</item>
+    </string-array>
+    <string name="abrir_menu">Abrir menú</string>
+    <string name="cerrar_menu">Cerrar menú</string>
+</resources>
